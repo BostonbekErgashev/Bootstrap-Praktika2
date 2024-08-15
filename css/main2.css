@@ -1,0 +1,8 @@
+.viko{
+    background-color: white;
+    width: 160px;
+}
+.viko:hover{
+    background-color: rgb(55, 198, 55);
+    color: black;
+}
